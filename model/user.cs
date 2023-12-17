@@ -8,5 +8,6 @@ namespace c_.model
 {
     internal class user
     {
+        public int Email { get; set; }
     }
 }
